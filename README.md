@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on [MBM](https://www.monbeaumarche.fr)
 
-- 🌱 I’m currently learning **Capacitor, Vue 3**
+- ⚙️ I’m currently working with **Vue 3**, **Capacitor**, and **Laravel**
 
-- 🎓 I'm currently studying at [ETNA](https://etna.io)
+- 🎓 I graduated with a Master's degree in Computer Science from [ETNA](https://etna.io) in 2024
 
-- 📫 How to reach me **send me a message on LinkedIn**
+- 📚 I’m always learning and staying up-to-date with the latest in **web & mobile development**
+
+- 📫 You can reach me on **LinkedIn** – feel free to send me a message!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
